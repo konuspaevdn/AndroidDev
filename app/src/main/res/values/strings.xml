@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="signup">Sign Up</string>
+    <string name="logo">CareWhood</string>
+    <string name="motto">\"There is always someone to take care of\"</string>
+    <string name="create_your_account">Create your account!</string>
+    <string name="sign_up_hint">Hint</string>
+    <string name="agreement_to_email">Agree to get email notifications</string>
+    <string name="search_for_a_restaurant">Search for a restaurant</string>
 </resources>
